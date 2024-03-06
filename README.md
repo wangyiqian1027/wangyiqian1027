@@ -3,29 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Profile</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-  }
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  h1 {
-    text-align: center;
-  }
-  h2 {
-    margin-top: 20px;
-  }
-  p {
-    margin-bottom: 10px;
-  }
-</style>
 </head>
 <body>
 <div class="container">
