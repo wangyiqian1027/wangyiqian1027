@@ -1,4 +1,4 @@
-<img src="Profile_image.gif" alt="Profile Image" style="width: 100%; height: auto;">
+<img src="Profile_image.gif" alt="Profile Image" style="width: 50%; height: auto; margin-right:10px">
 
 Plus 9 years of experience on software development using Javascript, Typescript, Node.js. 
 Focusing on quality of product and keeping deadline with excellent passion as fire. 
