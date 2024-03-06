@@ -66,7 +66,14 @@
 <p>-Slack, Github, Bitbucket, Gitlab</p>
 
 <h2>Languages and Tools</h2>
-
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-7.4-blueviolet)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3.9-green)](https://www.python.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-2.7.4-red)](https://www.ruby-lang.org/)
+[![Java](https://img.shields.io/badge/Java-15-blue)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.5.21-orange)](https://kotlinlang.org/)
+[![Go](https://img.shields.io/badge/Go-1.17-blue)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.0.5-blue)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.5-green)](https://nodejs.org/)
