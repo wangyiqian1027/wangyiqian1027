@@ -65,6 +65,12 @@
 <p>-Jira, Trello, Asana </p>
 <p>-Slack, Github, Bitbucket, Gitlab</p>
 
+<h2>Languages and Tools</h2>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.0.5-blue)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v14.17.5-green)](https://nodejs.org/)
+
 
 </div>
 </body>
