@@ -1,5 +1,4 @@
 <img src="Profile_image.gif" alt="Profile Image" style="width: 50%; height: auto;">
-<img src="Profile_image.gif" alt="Profile Image" style="width: 50%; height: auto;">
 Plus 9 years of experience on software development using Javascript, Typescript, Node.js. 
 Focusing on quality of product and keeping deadline with excellent passion as fire. 
 Have worked a lot in PWA and Hybrid app development as frontend developer using: 
