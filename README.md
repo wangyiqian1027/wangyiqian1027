@@ -1,4 +1,4 @@
-Plus 9 years of experience on software development using Javascript, Typescript, Node.js. 
+Plus 9 years of experience on software development using Javascript, Typescript, Node.js. ![Alt Text](Profile image.gif)
 Focusing on quality of product and keeping deadline with excellent passion as fire. 
 Have worked a lot in PWA and Hybrid app development as frontend developer using: 
 -Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js 
