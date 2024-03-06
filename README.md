@@ -1,5 +1,5 @@
 Plus 9 years of experience on software development using Javascript, Typescript, Node.js. 
-<img src="Profile_image.gif" alt="Profile Image" style="width: 300px; height: auto; position: absolute; top:0; right:0">
+<img src="Profile_image.gif" alt="Profile Image" style="width: 600px; height: 400px; position: absolute; top:100; right:100">
 Focusing on quality of product and keeping deadline with excellent passion as fire. 
 Have worked a lot in PWA and Hybrid app development as frontend developer using: 
 -Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js 
